@@ -1,8 +1,5 @@
 @import "../uqlibrary-elements/resources/theme/variables";
 
-.open-below {
-  top: 51px;
-}
 #apps {
   width: 320px;
   margin: 28px 0px 28px 28px;
@@ -11,11 +8,8 @@
   text-align: center;
   margin: 8px 2px;
 }
-#appsDropdown {
-  right: -20px;
-}
 
-@media screen and (min-width: 400px) {
+@media screen and (max-width: 420px) {
   #apps {
     width: 100%;
     margin: 0;
