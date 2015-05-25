@@ -1,11 +1,12 @@
 .open-below {
-    top: 51px;
-}
+  top: 51px; }
+
 #apps {
-    width: 320px;
-    margin: 28px 0px 28px 28px;
-}
+  width: 320px;
+  margin: 28px 0px 28px 28px; }
+
 .app {
-    text-align: center;
-    margin: 8px 2px;
-}
+  text-align: center;
+  margin: 8px 2px; }
+
+/*# sourceMappingURL=uqlibrary-apps-button.css.map */
