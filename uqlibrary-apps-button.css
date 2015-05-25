@@ -9,4 +9,24 @@
   text-align: center;
   margin: 8px 2px; }
 
+#appsDropdown {
+  right: -20px; }
+
+.arrow {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  top: 44px;
+  left: 50%;
+  margin-left: -15px;
+  border-width: 0 15px 15px;
+  border-bottom-color: #fff; }
+
+@media screen and (max-width: 400px) {
+  #apps {
+    margin: 0;
+  }
+}
 /*# sourceMappingURL=uqlibrary-apps-button.css.map */
