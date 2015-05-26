@@ -2,16 +2,18 @@
 
 #apps {
   width: 320px;
-  margin: 28px 0px 28px 28px;
+  margin: $menu-margin;
 }
 .app {
   text-align: center;
-  margin: 8px 2px;
+  margin: $base-unit ($base-unit/4);
 }
-
+.open-below {
+  top: $toolbar-height;
+}
 @media screen and (max-width: 420px) {
   #apps {
-    width: 100%;
+    width: $full-width;
     margin: 0;
   }
 }
