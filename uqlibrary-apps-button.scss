@@ -1,7 +1,7 @@
 @import "../uqlibrary-elements/resources/theme/variables";
 
 #apps {
-  width: 320px;
+  width: ($base-unit*40);
   margin: $menu-margin;
 }
 .app {

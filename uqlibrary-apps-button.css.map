@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAEA,KAAM;EACJ,KAAK,EAAE,KAAK;EACZ,MAAM,EC8CM,gBAAgB;;AD5C9B,IAAK;EACH,UAAU,EAAE,MAAM;EAClB,MAAM,EAAE,OAAyB;;AAEnC,WAAY;EACV,GAAG,ECsCY,IAAI;;ADpCrB,oCAAqC;EACnC,KAAM;IACJ,KAAK,ECiCI,IAAI;IDhCb,MAAM,EAAE,CAAC",
+"mappings": "AAEA,KAAM;EACJ,KAAK,EAAE,KAAe;EACtB,MAAM,EC8CM,gBAAgB;;AD5C9B,IAAK;EACH,UAAU,EAAE,MAAM;EAClB,MAAM,EAAE,OAAyB;;AAEnC,WAAY;EACV,GAAG,ECsCY,IAAI;;ADpCrB,oCAAqC;EACnC,KAAM;IACJ,KAAK,ECiCI,IAAI;IDhCb,MAAM,EAAE,CAAC",
 "sources": ["uqlibrary-apps-button.scss","../uqlibrary-elements/resources/theme/_variables.scss"],
 "names": [],
 "file": "uqlibrary-apps-button.css"
