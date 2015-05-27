@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAGA,KAAM;EACJ,KAAK,EAAE,KAAe;EACtB,MAAM,ECAM,gBAAgB;;ADG9B,IAAK;EACH,UAAU,EAAE,MAAM;EAClB,MAAM,EAAE,OAAyB;;AAGnC,WAAY;EACV,GAAG,EEmCY,IAAI;;AFhCrB,oCAAqC;EACnC,KAAM;IACJ,KAAK,EE6BI,IAAI;IF5Bb,MAAM,EAAE,CAAC",
-"sources": ["uqlibrary-apps-button.scss","../uqlibrary-elements/resources/theme/_margins.scss","../uqlibrary-elements/resources/theme/_variables.scss"],
-"names": [],
-"file": "uqlibrary-apps-button.css"
-}
